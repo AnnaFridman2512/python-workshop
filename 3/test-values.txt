@@ -1,1 +1,6 @@
 ("Hello world") > "Hello"
+("Testing,123") > "Testing"
+("This;is a test") > "This"
+("Longest'one") > "Longest"
+("A very long word here") > "very"
+("Th!s_sh0uld_work_too") > "Th!s_sh0uld_work_too"
