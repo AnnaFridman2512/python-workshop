@@ -1,1 +1,3 @@
 ("Hello World and Coders") > "sredoC dna dlroW olleH"
+("one-word") > "drow-eno"
+("Testing 123") > "321 gnitseT"
