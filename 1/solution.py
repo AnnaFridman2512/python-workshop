@@ -1,2 +1,5 @@
-def main(a,b,c):
-  return "not implemented yet"
+def main(a, b, c):
+    try:
+        return (a + b) / c
+    except:
+        return "err"
