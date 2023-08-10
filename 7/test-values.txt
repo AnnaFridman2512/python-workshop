@@ -1,1 +1,2 @@
 ("hellocat", "apple,bat,cat,goodbye,hello,yellow,why") > ["hello","cat"]
+("aa","a,b,c,a,d,e") > ["a","a"] > same word twice
