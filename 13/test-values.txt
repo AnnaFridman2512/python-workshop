@@ -1,1 +1,4 @@
 ('John doe,Jane McDun') > [('John doe', 'john.doe@company.com'), ('Jane McDun', 'jane.mcdun@company.com')]
+('John Doe,john Doe,JOhn DOe') > [('John Doe', 'john.doe@company.com'),('john Doe', 'john.doe2@company.com'),('JOhn DOe', 'john.doe3@company.com')]
+('John Alexander Smith Doe, Jane Mary Ellen McDun') > [('John Alexander Smith Doe', 'john.doe@company.com'),('Jane Mary Ellen McDun', 'jane.mcdun@company.com')]
+('Dan Ben-Shabat, Alice O\'Leary, Eve-Marie St.John') > [('Dan Ben-Shabat', 'dan.benshabat@company.com'),('Alice O\'Leary', 'alice.oleary@company.com'),('Eve-Marie St.John', 'evemarie.stjohn@company.com')]
